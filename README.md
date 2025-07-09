@@ -96,24 +96,24 @@ npm run build
 1. Go to chrome://extensions/<br>
 2. Enable Developer mode (top right)<br>
 3. Click Load unpacked<br>
-4.Select the /extension folder<br>
+4.Select the /extension folder
 
-##🧪 Future Enhancements
--📊 Add chart visualizations (pie/bar)
--☁ Sync across devices
+## 🧪 Future Enhancements<br>
+-📊 Add chart visualizations (pie/bar)<br>
+-☁ Sync across devices<br>
 -🔔 Daily reminders/alerts
 
 ---
 
-output:
+## output:
 <img width="1915" height="1013" alt="Image" src="https://github.com/user-attachments/assets/10be1ebd-7231-449f-a66b-c2983b5edff9" />
 
 
-👤 Author
+👤 Author<br> 
 Name: Ragani Kumari<br>
 Project: ProdTracker<br>
-License: MIT<br>
+License: MIT
 
-##🙌 Contributions<br>
+## 🙌 Contributions<br>
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
