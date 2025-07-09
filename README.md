@@ -11,6 +11,7 @@ DOMAIN :- MERN STACK WEB DEVELOPMENT
 DURATION :- 6 WEEKS
 
 MENTOR :- NEELA SANTOSH KUMAR
+
 ---
 *ProdTracker* is a lightweight productivity tracking tool built as a Chrome extension. It helps users monitor how much time they spend on different websites or apps daily, and presents this information in a clean, easy-to-read format using a dashboard.
 
@@ -54,3 +55,13 @@ prodtracker/
 │ ├── middleware/ → JWT auth middleware
 │ ├── jobs/ → Daily report generation logic
 │ └── server.js → Main Express app
+
+---
+
+## 🔧 Setup Instructions
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/RaganiKumari9798/CROME-EXTENSION-prodtracker-/prodtracker.git
+cd prodtracker
