@@ -91,12 +91,12 @@ npm run build
 
 ---
 
-## 🧩 4. Load the Extension in Chrome
+## 🧩 Load the Extension in Chrome
 
-1. Go to chrome://extensions/<br>
-2. Enable Developer mode (top right)<br>
-3. Click Load unpacked<br>
-4. Select the /extension folder
+- Go to chrome://extensions/<br>
+- Enable Developer mode (top right)<br>
+- Click Load unpacked<br>
+- Select the /extension folder
 
 ## 🧪 Future Enhancements<br>
 - 📊 Add chart visualizations (pie/bar)<br>
