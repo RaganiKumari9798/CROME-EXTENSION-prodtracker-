@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head><title>ProdTracker options</title></head>
+<body>
+  <h2>Blocked sites (comma‑separated)</h2>
+  <input id="sites" style="width:90%">
+  <button id="save">Save</button>
+  <script>
+    const input = document.getElementById('sites');
+    chrome.storage.sync.get('blockList', ({ blockList = [] }) => {
+      input.value = blockList.join(',');
+    });
+    document.getElementById('save').onclick = () => {
+      const list = input.value.split(',').map(s => s.trim()).filter(Boolean);
+      chrome.storage.sync.set({ blockList: list });
+    };
+  </script>
+</body>
+</html>

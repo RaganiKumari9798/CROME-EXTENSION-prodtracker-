@@ -1,0 +1,16 @@
+{
+  "name": "prodtracker-server",
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2",
+    "cors": "^2.8.5",
+    "dotenv": "^16",
+    "express": "^4",
+    "jsonwebtoken": "^9",
+    "mongoose": "^8",
+    "node-cron": "^3"
+  }
+}
