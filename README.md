@@ -69,19 +69,19 @@ cd prodtracker
 ### 2.Install dependencies
 
 ## Backend:
-```bash
+
 cd server
 npm install
 
 ## Frontend:
-```bash
+
 cd popup-react
 npm install
 
 ### 3.Start the app
 
 ## Backend:
-```bash
+
 cd server
 npm start
 
@@ -107,16 +107,14 @@ npm run build
 ---
 
 output:
-
+<img width="1915" height="1013" alt="Image" src="https://github.com/user-attachments/assets/10be1ebd-7231-449f-a66b-c2983b5edff9" />
 
 
 👤 Author
-Name: Ragani Kumari
+Name: Ragani Kumari<br>
+Project: ProdTracker<br>
+License: MIT<br>
 
-Project: ProdTracker
-
-License: MIT
-
-🙌 Contributions
+##🙌 Contributions<br>
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
