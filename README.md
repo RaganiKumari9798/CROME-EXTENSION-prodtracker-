@@ -63,7 +63,7 @@ prodtracker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/RaganiKumari9798/CROME-EXTENSION-prodtracker-/prodtracker.git
+git clone https://github.com/your-username/prodtracker.git
 cd prodtracker
 
 ### 2.Install dependencies
@@ -71,11 +71,12 @@ cd prodtracker
 ## Backend:
 ```bash
 cd server
+npm install
 
 ## Frontend:
 ```bash
 cd popup-react
-npm start
+npm install
 
 ### 3.Start the app
 
@@ -85,7 +86,37 @@ cd server
 npm start
 
 ## Build frontend:
-```bash
+
 cd popup-react
 npm run build
+
+---
+
+## 🧩 4. Load the Extension in Chrome
+
+1. Go to chrome://extensions/<br>
+2. Enable Developer mode (top right)<br>
+3. Click Load unpacked<br>
+4.Select the /extension folder<br>
+
+##🧪 Future Enhancements
+-📊 Add chart visualizations (pie/bar)
+-☁ Sync across devices
+-🔔 Daily reminders/alerts
+
+---
+
+output:
+
+
+
+👤 Author
+Name: Ragani Kumari
+
+Project: ProdTracker
+
+License: MIT
+
+🙌 Contributions
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
