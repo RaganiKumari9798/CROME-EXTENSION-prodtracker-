@@ -1,5 +1,17 @@
 # 📊 ProdTracker – Productivity Tracking Chrome Extension
 
+COMPANY :- CODTECH IT SOLUTIONS
+
+NAME :- RAGANI KUMARI
+
+INTERN ID :- CT06DF640
+
+DOMAIN :- MERN STACK WEB DEVELOPMENT
+
+DURATION :- 6 WEEKS
+
+MENTOR :- NEELA SANTOSH KUMAR
+---
 *ProdTracker* is a lightweight productivity tracking tool built as a Chrome extension. It helps users monitor how much time they spend on different websites or apps daily, and presents this information in a clean, easy-to-read format using a dashboard.
 
 ---
