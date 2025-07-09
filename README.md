@@ -69,24 +69,24 @@ cd prodtracker
 
 ## Backend:
 
-cd server
+cd server<br>
 npm install
 
 ## Frontend:
 
-cd popup-react
+cd popup-react<br>
 npm install
 
 ### 3.Start the app
 
 ## Backend:
 
-cd server
+cd server<br>
 npm start
 
 ## Build frontend:
 
-cd popup-react
+cd popup-react<br>
 npm run build
 
 ---
@@ -96,12 +96,12 @@ npm run build
 1. Go to chrome://extensions/<br>
 2. Enable Developer mode (top right)<br>
 3. Click Load unpacked<br>
-4.Select the /extension folder
+4. Select the /extension folder
 
 ## 🧪 Future Enhancements<br>
--📊 Add chart visualizations (pie/bar)<br>
--☁ Sync across devices<br>
--🔔 Daily reminders/alerts
+- 📊 Add chart visualizations (pie/bar)<br>
+- ☁Sync across devices<br>
+- 🔔 Daily reminders/alerts
 
 ---
 
