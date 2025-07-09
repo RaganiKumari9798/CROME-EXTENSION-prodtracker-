@@ -65,3 +65,27 @@ prodtracker/
 ```bash
 git clone https://github.com/RaganiKumari9798/CROME-EXTENSION-prodtracker-/prodtracker.git
 cd prodtracker
+
+### 2.Install dependencies
+
+## Backend:
+```bash
+cd server
+
+## Frontend:
+```bash
+cd popup-react
+npm start
+
+### 3.Start the app
+
+## Backend:
+```bash
+cd server
+npm start
+
+## Build frontend:
+```bash
+cd popup-react
+npm run build
+
